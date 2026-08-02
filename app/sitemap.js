@@ -1,6 +1,6 @@
 import { getAllSlugs } from "@/lib/posts";
 
-const siteUrl = "https://example.com"; // TODO: replace with your real domain once you have one
+const siteUrl = "https://muibi-portfolio.vercel.app"; // TODO: replace with your real domain once you have one
 
 export default function sitemap() {
   const staticRoutes = [
